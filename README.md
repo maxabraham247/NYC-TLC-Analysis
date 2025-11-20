@@ -125,7 +125,7 @@ CSV data handling for dashboard integration
 
 Clone the repository:
 
-git clone https://github.com/yourusername/nyc-tlc-analysis.git
+git clone https://github.com/maxabraham247/nyc-tlc-analysis.git
 
 
 Open the Python notebook:
