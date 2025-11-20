@@ -43,6 +43,7 @@ Checks missing values and handles them appropriately
 Validates latitude/longitude boundaries
 
 📊 Key Analyses Performed
+
 1️⃣ Relationship Between Trip Distance and Fare Amount
 
 Shows how pricing correlates with distance and identifies inefficient trips.
